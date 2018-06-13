@@ -1,0 +1,11 @@
+@AUTO_GEN_MESSAGE@
+
+#ifndef VERSION_H_IN
+#define VERSION_H_IN
+
+#define VERSION_MAJOR @PRJ_MAJOR@
+#define VERSION_MINOR @PRJ_MINOR@
+#define VERSION_BUILD @PRJ_BUILD@
+
+
+#endif // VERSION_H_IN
